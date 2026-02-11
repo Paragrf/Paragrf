@@ -90,16 +90,6 @@
 
 ---
 
-## 🏆 Achievements & Contributions
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Paragrf&theme=radical&no-frame=true&row=1&column=7)](https://github.com/Paragrf)
-
-</div>
-
----
-
 ## 🔥 Recent Activity
 
 <!--START_SECTION:activity-->
@@ -107,10 +97,6 @@
 <!--END_SECTION:activity-->
 
 <div align="center">
-
-### 💭 Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🐍 Contribution Graph
 
