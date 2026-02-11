@@ -1,0 +1,14 @@
+name: Generate Trophy
+on:
+  schedule:
+    - cron: "0 0 * * *" # 每天更新
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: soulteary/profile-trophy-action@main
+        with:
+          user: Paragrf
+          # 参数和原版完全一致
+          params: theme=radical&no-frame=true&column=7
